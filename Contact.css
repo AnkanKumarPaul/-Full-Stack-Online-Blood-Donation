@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contactbody {
+    background-image: -webkit-image-set("Contact.gif");
+    background-size: cover;
+}
+
+ul li {
+    text-decoration: none;
+}
+
+.emailthree {
+    text-align: center;
+    background-color: #d4ceceb6;
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(200, 3, 200);
+}
+
+.phonethree {
+    text-align: center;
+    background-color: #d4ceceb6;
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(212, 154, 7);
+}
+
+
+.wappthree {
+    text-align: center;
+    background-color: #d4ceceb6;
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(40 159 15);
+}
+
+.homethree {
+    text-align: center;
+    background-color: #d4ceceb6;
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(155, 47, 0);
+}
+
+.clockthree {
+    text-align: center;
+    background-color: #d4ceceb6;
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(0, 61, 215);
+}
